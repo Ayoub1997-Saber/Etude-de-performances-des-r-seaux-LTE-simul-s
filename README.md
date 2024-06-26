@@ -1,4 +1,4 @@
-## Edited by: Ayoub Taihi & Racim Haffaf
+## Edited by: Ayoub Taihi
 ## Under the supervision of: M. Abdennebi
 
 ##########################################################################################################
